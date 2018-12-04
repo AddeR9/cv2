@@ -1,0 +1,106 @@
+body {
+  margin: auto auto auto auto;
+  text-align: center;
+  font-family: monospace;
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  line-height: 2;
+margin: 50px auto 0 auto;
+font-family: 'Indie Flower', cursive;
+color: #66BFBF;
+}
+
+h2 {
+font-family: monospace;
+  font-size: 30px;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+
+h3 {
+font-family:monospace;
+color: #11999E;
+font-size: 20px;
+margin: auto;
+
+
+}
+
+p {
+  font-family: 'Lora', serif;
+
+
+
+
+}
+
+div {
+  background-color: #E4F9F5;
+}
+
+
+a {
+  color: #11999E;
+}
+
+
+.top-container{
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+
+}
+
+.me {
+  width: 250px;
+  height: 250px;
+}
+
+.skill-row {
+width: 50%;
+display: block;
+margin: 100px auto 100px auto;
+text-align: normal;
+line-height: 2;
+}
+
+
+.books {
+  width: 25%;
+  float: left;
+
+}
+
+.juventus {
+  width: 25%;
+  float: left;
+
+}
+.pro {
+  text-decoration: underline;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+
+}
+.clear1
+{
+  clear: left;
+}
+
+.clear2 {
+  clear: left;
+}
